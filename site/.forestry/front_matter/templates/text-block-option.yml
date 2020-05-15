@@ -1,7 +1,6 @@
 ---
 label: Text block option
 hide_body: false
-is_partial: true
 fields:
 - type: include
   name: essential
